@@ -41,3 +41,6 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+.vs/VSWorkspaceState.json
+.vs/2048_Java/v17/.wsuo
+.vs/2048_Java/v17/DocumentLayout.json
